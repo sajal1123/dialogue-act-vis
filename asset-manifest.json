@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dialogue-act-vis/static/css/main.32a003f2.css",
+    "main.js": "/dialogue-act-vis/static/js/main.03fd2ef7.js",
+    "static/js/787.405ad29f.chunk.js": "/dialogue-act-vis/static/js/787.405ad29f.chunk.js",
+    "index.html": "/dialogue-act-vis/index.html",
+    "main.32a003f2.css.map": "/dialogue-act-vis/static/css/main.32a003f2.css.map",
+    "main.03fd2ef7.js.map": "/dialogue-act-vis/static/js/main.03fd2ef7.js.map",
+    "787.405ad29f.chunk.js.map": "/dialogue-act-vis/static/js/787.405ad29f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32a003f2.css",
+    "static/js/main.03fd2ef7.js"
+  ]
+}
