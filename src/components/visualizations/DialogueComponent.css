@@ -1,0 +1,86 @@
+.conversation-visualization {
+  padding: 20px;
+  max-height: 100%;
+  max-width: 98%;
+  overflow-y: auto;
+}
+
+.table-container {
+  width: 100%; /* Make the table container take up the full width */
+  max-height: 98%;
+  overflow-y: auto; /* Enable scrolling for the table */
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+  position: relative;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+  position: sticky;
+  text-align: center;
+  top: 0;
+  z-index: 22222; /* Keep the header above the content */
+}
+
+tr:hover {
+  background-color: rgba(0, 145, 255, 0.1);
+}
+
+tr.selected {
+  background-color: #bbdcff;
+}
+
+td.correct {
+  background-color: steelblue;
+}
+
+td.incorrect {
+  background-color: red;
+}
+
+.title-text {
+  position: sticky;
+  top: 0;
+  /* background-color: #f2f2f2; Match the background color of the th */
+  z-index: 3; /* Keep the title above the header */
+}
+
+.title {
+  font-weight: bold;
+  font-family: Georgia;
+}
+
+.shadow {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.pre-dialogue {
+  white-space: pre-wrap;
+  font-family: monospace;
+}
+
+.dialogue-text-container, table {
+  max-width: 90%;
+  max-height: 90%;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  padding: 20px;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease;
+}
+
+.dialogue-text-container:hover {
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.2);
+}

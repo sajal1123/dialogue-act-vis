@@ -1,0 +1,144 @@
+[{
+ "Table 1":[{
+   "speaker":0,
+   "text":"Hi!",
+   "act":20,
+   "conv_id":11103,
+   "topic":103,
+   "DApredict":20
+   },{
+   "speaker":1,
+   "text":"Hi.",
+   "act":20,
+   "conv_id":11103,
+   "topic":104,
+   "DApredict":20
+   },{
+   "speaker":0,
+   "text":"Hi.  Umm, I think there's something that we really need to talk about.",
+   "act":8,
+   "conv_id":11103,
+   "topic":103,
+   "DApredict":20
+   },{
+   "speaker":1,
+   "text":"I think we do. Why don't we go inside?  Look uh, I know why you're here.",
+   "act":8,
+   "conv_id":11103,
+   "topic":105,
+   "DApredict":8
+   },{
+   "speaker":0,
+   "text":"You do?",
+   "act":34,
+   "conv_id":11103,
+   "topic":106,
+   "DApredict":34
+   },{
+   "speaker":1,
+   "text":"Yeah, and to save you from any embarrassment umm, I think maybe I should talk first.",
+   "act":35,
+   "conv_id":11103,
+   "topic":104,
+   "DApredict":35
+   },{
+   "speaker":1,
+   "text":"Okay.",
+   "act":6,
+   "conv_id":11103,
+   "topic":104,
+   "DApredict":6
+   },{
+   "speaker":1,
+   "text":"Okay.  Uh, Ross and Rachel. Rachel and Ross. That's been one heck of a see-saw hasn't it?",
+   "act":43,
+   "conv_id":11103,
+   "topic":104,
+   "DApredict":43
+   },{
+   "speaker":0,
+   "text":"What?",
+   "act":39,
+   "conv_id":11103,
+   "topic":106,
+   "DApredict":39
+   },{
+   "speaker":0,
+   "text":"I mean look, that-that one night we had was fun and-and certainly passionate, but don't you think it's better if we just stayed friends?",
+   "act":8,
+   "conv_id":11103,
+   "topic":105,
+   "DApredict":8
+   },{
+   "speaker":0,
+   "text":"Seriously. What?!",
+   "act":16,
+   "conv_id":11103,
+   "topic":106,
+   "DApredict":16
+   },{
+   "speaker":1,
+   "text":"Okay.",
+   "act":6,
+   "conv_id":11103,
+   "topic":104,
+   "DApredict":6
+   },{
+   "speaker":1,
+   "text":"Okay.",
+   "act":6,
+   "conv_id":11103,
+   "topic":104,
+   "DApredict":6
+   },{
+   "speaker":1,
+   "text":"Y'know what?",
+   "act":39,
+   "conv_id":11103,
+   "topic":104,
+   "DApredict":39
+   },{
+   "speaker":1,
+   "text":"If you want to, we can do it one more time.",
+   "act":8,
+   "conv_id":11103,
+   "topic":104,
+   "DApredict":6
+   },{
+   "speaker":1,
+   "text":"I mean I-I'd be okay with that.",
+   "act":8,
+   "conv_id":11103,
+   "topic":104,
+   "DApredict":8
+   },{
+   "speaker":1,
+   "text":"In fact, I have some time right now.",
+   "act":8,
+   "conv_id":11103,
+   "topic":104,
+   "DApredict":8
+   },{
+   "speaker":0,
+   "text":"Okay, y'know what? Can I, can I talk now?",
+   "act":34,
+   "conv_id":11103,
+   "topic":103,
+   "DApredict":34
+   },{
+   "speaker":1,
+   "text":"Oh sure.",
+   "act":43,
+   "conv_id":11103,
+   "topic":104,
+   "DApredict":43
+   },{
+   "speaker":0,
+   "text":"I'm pregnant.  Ross?  Ross?  Okay, whenever you're ready.  And you're the father by the way-but you got that",
+   "act":43,
+   "conv_id":11103,
+   "topic":100,
+   "DApredict":34
+   }
+  ]
+ }]

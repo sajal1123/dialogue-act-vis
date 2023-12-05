@@ -1,0 +1,144 @@
+[{
+ "Table 1":[{
+   "speaker":0,
+   "text":"b'Hi!'",
+   "act":20,
+   "conv_id":11103,
+   "topic":103,
+   "DApredict":20
+   },{
+   "speaker":1,
+   "text":"b'Hi.'",
+   "act":20,
+   "conv_id":11103,
+   "topic":104,
+   "DApredict":20
+   },{
+   "speaker":0,
+   "text":"b'Hi.  Umm, I think there\\xc2\\x92s something that we really need to talk about.'",
+   "act":8,
+   "conv_id":11103,
+   "topic":103,
+   "DApredict":20
+   },{
+   "speaker":1,
+   "text":"b'I think we do. Why don\\xc2\\x92t we go inside?  Look uh, I know why you\\xc2\\x92re here.'",
+   "act":8,
+   "conv_id":11103,
+   "topic":105,
+   "DApredict":8
+   },{
+   "speaker":0,
+   "text":"b'You do?'",
+   "act":34,
+   "conv_id":11103,
+   "topic":106,
+   "DApredict":34
+   },{
+   "speaker":1,
+   "text":"b'Yeah, and to save you from any embarrassment umm, I think maybe I should talk first.'",
+   "act":35,
+   "conv_id":11103,
+   "topic":104,
+   "DApredict":35
+   },{
+   "speaker":1,
+   "text":"b'Okay.'",
+   "act":6,
+   "conv_id":11103,
+   "topic":104,
+   "DApredict":6
+   },{
+   "speaker":1,
+   "text":"b'Okay.  Uh, Ross and Rachel. Rachel and Ross. That\\xc2\\x92s been one heck of a see-saw hasn\\xc2\\x92t it?'",
+   "act":43,
+   "conv_id":11103,
+   "topic":104,
+   "DApredict":43
+   },{
+   "speaker":0,
+   "text":"b'What?'",
+   "act":39,
+   "conv_id":11103,
+   "topic":106,
+   "DApredict":39
+   },{
+   "speaker":0,
+   "text":"b'I mean look, that-that one night we had was fun and\\xc2\\x85and certainly passionate, but don\\xc2\\x92t you think it\\xc2\\x92s better if we just stayed friends?'",
+   "act":8,
+   "conv_id":11103,
+   "topic":105,
+   "DApredict":8
+   },{
+   "speaker":0,
+   "text":"b'Seriously. What?!'",
+   "act":16,
+   "conv_id":11103,
+   "topic":106,
+   "DApredict":16
+   },{
+   "speaker":1,
+   "text":"b'Okay.'",
+   "act":6,
+   "conv_id":11103,
+   "topic":104,
+   "DApredict":6
+   },{
+   "speaker":1,
+   "text":"b'Okay.'",
+   "act":6,
+   "conv_id":11103,
+   "topic":104,
+   "DApredict":6
+   },{
+   "speaker":1,
+   "text":"b'Y\\xc2\\x92know what?'",
+   "act":39,
+   "conv_id":11103,
+   "topic":104,
+   "DApredict":39
+   },{
+   "speaker":1,
+   "text":"b'If you want to, we can do it one more time.'",
+   "act":8,
+   "conv_id":11103,
+   "topic":104,
+   "DApredict":6
+   },{
+   "speaker":1,
+   "text":"b'I mean I\\xc2\\x92d-I\\xc2\\x92d be okay with that.'",
+   "act":8,
+   "conv_id":11103,
+   "topic":104,
+   "DApredict":8
+   },{
+   "speaker":1,
+   "text":"b'In fact, I have some time right now.'",
+   "act":8,
+   "conv_id":11103,
+   "topic":104,
+   "DApredict":8
+   },{
+   "speaker":0,
+   "text":"b'Okay, y\\xc2\\x92know what? Can I, can I talk now?'",
+   "act":34,
+   "conv_id":11103,
+   "topic":103,
+   "DApredict":34
+   },{
+   "speaker":1,
+   "text":"b'Oh sure.'",
+   "act":43,
+   "conv_id":11103,
+   "topic":104,
+   "DApredict":43
+   },{
+   "speaker":0,
+   "text":"b'I\\xc2\\x92m pregnant.  Ross?  Ross?  Okay, whenever you\\xc2\\x92re ready.  And you\\xc2\\x92re the father by the way\\xc2\\x97but you got that'",
+   "act":43,
+   "conv_id":11103,
+   "topic":100,
+   "DApredict":34
+   }
+  ]
+ }]
